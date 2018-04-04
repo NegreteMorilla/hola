@@ -42,7 +42,7 @@ public class Falta {
 	public String toString() {
 		return "J" + justificadas + "I" + injustificadas + "R" + retrasos;
 	}
-	
+	/*x*/
 	
 	
 }
